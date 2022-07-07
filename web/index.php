@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<title>Testing lighthouse</title>
 <html lang="en">
 <head>
 </head>
